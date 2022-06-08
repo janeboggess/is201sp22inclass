@@ -1,0 +1,63 @@
+body{
+    font-family: Arial, Helvetica, sans-serif; 
+    background-color: beige;
+    font-size: 16px;
+    color: black
+    
+    
+ }
+
+li {
+    font-size: 14px;
+    font-style: italic;
+    font-weight: normal;
+ }
+
+ a{
+     color: brown;
+     text-decoration: none;
+ }
+ 
+ a:hover {
+    text-decoration: underline;
+ }
+
+ a:visited {
+     color: blueviolet
+ }
+
+ .resumerListHeading{
+     font-weight: bold;
+     font-style: normal;
+ }
+
+ .underline {text-decoration: underline;}
+ .bold{font-weight: bold;}
+ .justify {text-align: justify;}
+
+ .homebg{
+     background-image: url('images/oceanback.jpeg');
+     background-position: bottom right;
+     background-repeat: repeat;
+ }
+
+
+ .box1{
+     border-bottom: dotted 2px red;
+    border: solid 1px pink
+}
+
+.box2{
+    padding: 5px;
+}
+
+.box3{
+    margin: 15px;
+}
+
+.box4{
+    padding-left: 10px;
+    margin: 100px;
+    border-right: solid 5px blue;
+    
+}
